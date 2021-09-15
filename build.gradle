@@ -25,7 +25,8 @@ buildscript {
         navigationVersion = "2.3.5"
         roomVersion = "2.3.0"
         testExtJunitVersion = "1.1.3"
-        gsonVersion = '2.8.2'
+        gsonVersion = '2.8.8'
+        dataStoreVersion = "1.0.0-alpha02"
     }
     repositories {
         google()

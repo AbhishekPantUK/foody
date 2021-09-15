@@ -1,7 +1,7 @@
-package com.abhishek.foody.main.view
+package com.abhishek.foody.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.abhishek.foody.R
 import dagger.hilt.android.AndroidEntryPoint
 
