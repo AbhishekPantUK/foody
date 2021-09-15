@@ -30,7 +30,7 @@ class CategoryAdapter(private val listener: OnItemClickListener) :
                 root.setOnClickListener {
                     val position = adapterPosition
                     if (position != RecyclerView.NO_POSITION) {
-                        val category = getItem(position)a
+                        val category = getItem(position)
                         listener.onItemClick(category)
                     }
                 }
